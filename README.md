@@ -19,7 +19,7 @@
   - 数据排序
   - 数据塑形
 - [项目一级路由查看地址](http://47.113.218.122:8080/api)
-- 项目详细内容请关注[博客](https://www.cnblogs.com/bleso/)，或者+2495644988@qq.com/bleso624@gmail.com
+- 项目详细内容请关注[博客](https://www.cnblogs.com/bleso/)，或者+2495644988@qq.com, bleso624@gmail.com
 
 
 
